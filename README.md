@@ -1,2 +1,3 @@
-# mangazone
-School project
+# Manga Zone
+### School project
+--- 
