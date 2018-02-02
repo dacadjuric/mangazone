@@ -1,3 +1,3 @@
 # Manga Zone
-### School project
+### School project - Web programming
 --- 
